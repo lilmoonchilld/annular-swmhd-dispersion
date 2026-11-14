@@ -1,0 +1,8 @@
+a2618fb7d84fe632ca65ff2cd49ae566fd0c39dd2069e7d924200e941f8396ff  /mnt/data/Pasted text(20261114-063418).txt
+a2618fb7d84fe632ca65ff2cd49ae566fd0c39dd2069e7d924200e941f8396ff  /mnt/data/annular-swmhd-dispersion/original_sources/chebyshev_collocation_solver_original.py
+8abe41d9d206bcea0d6e0c07bd853e1bc0e6776cf5634c48d6c71dbe78deade3  /mnt/data/Pasted text(20261114-063743).txt
+8abe41d9d206bcea0d6e0c07bd853e1bc0e6776cf5634c48d6c71dbe78deade3  /mnt/data/annular-swmhd-dispersion/original_sources/bessel_constant_height_original.py
+b0c29937cba2400ace21ddb2557cd733305af27d9357470220847221ef48d301  /mnt/data/Pasted text (2)(20261114-063751).txt
+b0c29937cba2400ace21ddb2557cd733305af27d9357470220847221ef48d301  /mnt/data/annular-swmhd-dispersion/original_sources/bessel_weakly_varying_height_original.py
+db2c97ea23614520e542cb9e133b47721161c4bcd2026cec32914cbdc04cd8df  /mnt/data/Pasted text(20261114-064207).txt
+db2c97ea23614520e542cb9e133b47721161c4bcd2026cec32914cbdc04cd8df  /mnt/data/annular-swmhd-dispersion/original_sources/whittaker_radial_gravity_original.py
